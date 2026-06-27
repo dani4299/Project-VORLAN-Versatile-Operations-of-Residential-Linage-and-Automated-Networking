@@ -1,3 +1,4 @@
+# <img width="95" height="55" alt="Gemini_Generated_Image_5qdp4z5qdp4z5qdp" src="https://github.com/user-attachments/assets/a6efc03a-375d-43f5-882b-9d98f0ba8c78" />
 # VORLAN: Versatile Operations of Residential Linkage and Automated Networking
 
 ### System Description
